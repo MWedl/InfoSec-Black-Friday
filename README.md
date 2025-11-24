@@ -143,6 +143,7 @@ Deal ends: 1st December
 **SysReptor** - Pentest Reporting Software \
 https://docs.sysreptor.com/  
 30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
+Deal ends: 30th November
 
 ## Online Courses & Training
 
